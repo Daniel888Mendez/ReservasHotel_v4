@@ -1,0 +1,25 @@
+
+†
+java:S13199"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ç²©
+†
+java:S1319I"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÔÁÒî
+†
+java:S1319N"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(€·ùÄ
+‹
+java:S1319_"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¢˜·¢ûÿÿÿÿ
+…
+java:S1319k"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(«’©?
+†
+java:S1319n"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ôìæø
+‹
+java:S1319q"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(· §¨üÿÿÿÿ
+‹
+java:S1319t"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(„€­‰ûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»’Šº
+E
+java:S3010"#Remove this assignment of "modelo".(‚š£Ëøÿÿÿÿ8²¹ÿ¦ë1
+W
+java:S2209"5Change this instance-reference to a static reference.(‚š£Ëøÿÿÿÿ8³¹ÿ¦ë1
+V	java:S125a"<This block of commented-out lines of code should be removed.(ï–°¥ûÿÿÿÿ
+x
+java:S1128"VRemove this unused import 'org.iesalandalus.programacion.reservashotel.modelo.Modelo'.(¿“’Íşÿÿÿÿ8›ä…¬ë1

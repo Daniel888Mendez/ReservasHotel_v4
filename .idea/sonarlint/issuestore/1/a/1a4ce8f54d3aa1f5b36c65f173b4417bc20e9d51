@@ -1,0 +1,52 @@
+
+€
+java:S1488g"eImmediately return this expression instead of assigning it to the temporary variable "fecNacimiento".(÷Ì›Êşÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(––†
+@	java:S106"+Replace this use of System.out by a logger.(›§÷¥
+@	java:S106"+Replace this use of System.out by a logger.(æÈ÷Ó
+@	java:S106"+Replace this use of System.out by a logger.(´¿•
+E	java:S106""+Replace this use of System.out by a logger.(µÌ´³ÿÿÿÿÿ
+@	java:S106'"+Replace this use of System.out by a logger.(‡ß¾
+@	java:S1063"+Replace this use of System.out by a logger.(õÖÅÔ
+E	java:S1065"+Replace this use of System.out by a logger.(¿Õôşÿÿÿÿ
+@	java:S1068"+Replace this use of System.out by a logger.(›“û¥
+E	java:S106;"+Replace this use of System.out by a logger.(ò‹¤ıÿÿÿÿ
+@	java:S106>"+Replace this use of System.out by a logger.(¿÷Îæ
+E	java:S106A"+Replace this use of System.out by a logger.(ÌÂúõøÿÿÿÿ
+@	java:S106E"+Replace this use of System.out by a logger.(ÄÅğ¤
+E	java:S106R"+Replace this use of System.out by a logger.(­òÚòøÿÿÿÿ
+E	java:S106\"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+E	java:S106]"+Replace this use of System.out by a logger.(›É¡³ùÿÿÿÿ
+E	java:S106`"+Replace this use of System.out by a logger.(­ñüòûÿÿÿÿ
+E	java:S106c"+Replace this use of System.out by a logger.(ì½Ãûÿÿÿÿ
+V	java:S125j"<This block of commented-out lines of code should be removed.(’º®Ôüÿÿÿÿ
+Q	java:S125m"<This block of commented-out lines of code should be removed.(¿éñ»
+E	java:S106t"+Replace this use of System.out by a logger.(­ñüòûÿÿÿÿ
+@	java:S106x"+Replace this use of System.out by a logger.(ƒûÆÓ
+F	java:S106ˆ"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+A	java:S106‰"+Replace this use of System.out by a logger.(Êè²º
+A	java:S106‹"+Replace this use of System.out by a logger.(óÅ¡
+A	java:S106"+Replace this use of System.out by a logger.(›Ùû®
+F	java:S106"+Replace this use of System.out by a logger.(­ú®©şÿÿÿÿ
+F	java:S106–"+Replace this use of System.out by a logger.(Ÿû˜ÿÿÿÿÿ
+F	java:S106˜"+Replace this use of System.out by a logger.(ŞæğÓüÿÿÿÿ
+A	java:S106œ"+Replace this use of System.out by a logger.(ĞßŒ·
+F	java:S106"+Replace this use of System.out by a logger.(Ÿû˜ÿÿÿÿÿ
+F	java:S106 "+Replace this use of System.out by a logger.(ŞæğÓüÿÿÿÿ
+A	java:S106¦"+Replace this use of System.out by a logger.(ĞßŒ·
+A	java:S106ª"+Replace this use of System.out by a logger.(éµ¬Ø
+A	java:S106¶"+Replace this use of System.out by a logger.(²’ò
+A	java:S106À"+Replace this use of System.out by a logger.(óÅ¡
+A	java:S106Â"+Replace this use of System.out by a logger.(›Ùû®
+R	java:S125Ë"<This block of commented-out lines of code should be removed.(ü±ëÎ
+F	java:S106â"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+A	java:S106ã"+Replace this use of System.out by a logger.(Ì¥é
+@	java:S106å"+Replace this use of System.out by a logger.(çºÓ%
+A	java:S106é"+Replace this use of System.out by a logger.(ŒÌâå
+F	java:S106ò"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+F	java:S106ó"+Replace this use of System.out by a logger.(éÁÙ¶úÿÿÿÿ
+@	java:S106ö"+Replace this use of System.out by a logger.(çºÓ%
+A	java:S106ú"+Replace this use of System.out by a logger.(®€€
+F
+java:S1128
+"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ

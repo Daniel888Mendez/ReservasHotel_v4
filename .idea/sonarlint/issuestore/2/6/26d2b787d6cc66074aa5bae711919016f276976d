@@ -1,0 +1,13 @@
+
+R
+java:S39725"7Move this "if" to a new line or add the missing "else".(¢½Ñäüÿÿÿÿ
+\
+java:S6201Q"FReplace this instanceof check and cast with 'instanceof Simple simple'(ó¸Ú¼
+Z
+java:S6201T"DReplace this instanceof check and cast with 'instanceof Doble doble'(åÏƒÞ
+C
+java:S1905U"(Remove this unnecessary cast to "Doble".(˜ÔÞ¹þÿÿÿÿ
+a
+java:S6201W"FReplace this instanceof check and cast with 'instanceof Triple triple'(Üàƒ—ûÿÿÿÿ
+Z
+java:S6201Z"DReplace this instanceof check and cast with 'instanceof Suite suite'(Ê»ÿØ
