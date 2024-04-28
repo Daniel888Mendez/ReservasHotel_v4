@@ -1,0 +1,37 @@
+
+s
+java:S1192¤"PUse already-defined constant 'TIPO_SUITE' instead of duplicating its value here.(À‡¯˜şÿÿÿÿ8¥¡Ãì1
+o
+java:S1192£"QUse already-defined constant 'TIPO_TRIPLE' instead of duplicating its value here.(¨å½Ö8¥¡Ãì1
+s
+java:S1192¢"PUse already-defined constant 'TIPO_DOBLE' instead of duplicating its value here.(òãÓÓşÿÿÿÿ8¥¡Ãì1
+o
+java:S1192¡"QUse already-defined constant 'TIPO_SIMPLE' instead of duplicating its value here.( ‡˜Š8¥¡Ãì1
+}
+java:S1488º"_Immediately return this expression instead of assigning it to the temporary variable "reserva".(ÍŠ¼8¦¡Ãì1
+G	java:S106w"+Replace this use of System.out by a logger.(øˆş8å¡Ãì1
+G	java:S106}"+Replace this use of System.out by a logger.(ÂüÆ•8å¡Ãì1
+b
+java:S6201‘"DReplace this instanceof check and cast with 'instanceof Doble doble'(åÏƒŞ8ç¡Ãì1
+b
+java:S6201‘"DReplace this instanceof check and cast with 'instanceof Doble doble'(åÏƒŞ8ç¡Ãì1
+i
+java:S6201”"FReplace this instanceof check and cast with 'instanceof Triple triple'(Üàƒ—ûÿÿÿÿ8ì¡Ãì1
+i
+java:S6201”"FReplace this instanceof check and cast with 'instanceof Triple triple'(Üàƒ—ûÿÿÿÿ8ï¡Ãì1
+i
+java:S6201”"FReplace this instanceof check and cast with 'instanceof Triple triple'(Üàƒ—ûÿÿÿÿ8ï¡Ãì1
+b
+java:S6201—"DReplace this instanceof check and cast with 'instanceof Suite suite'(Ê»ÿØ8ğ¡Ãì1
+b
+java:S6201—"DReplace this instanceof check and cast with 'instanceof Suite suite'(Ê»ÿØ8ğ¡Ãì1
+B
+java:S1168›"$Return an empty map instead of null.(¥¹ï8ñ¡Ãì1
+?	java:S131 ""Add a default case to this switch.(à“Åı8ñ¡Ãì1
+V
+java:S1128
+"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8·‹¨Ãì1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8«éĞÃì1
+]
+java:S1128"@Remove this unused import 'com.mongodb.client.model.Filters.eq'.(©§›8·‹¨Ãì1

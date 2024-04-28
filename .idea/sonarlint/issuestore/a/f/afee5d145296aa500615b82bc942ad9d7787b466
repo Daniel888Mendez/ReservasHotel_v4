@@ -1,0 +1,21 @@
+
+ž
+java:S1186x"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îäìâ8‡ðÏ¨ê1
+ž
+java:S1186z"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°©ÞË8‡ðÏ¨ê1
+h
+java:S6201"FReplace this instanceof check and cast with 'instanceof Simple simple'(ê˜Ÿ„þÿÿÿÿ8ãñ´»ì1
+f
+java:S6201"DReplace this instanceof check and cast with 'instanceof Doble doble'(“¯¶¨ùÿÿÿÿ8äñ´»ì1
+E
+java:S1905"(Remove this unnecessary cast to "Doble".(«Šà˜8äñ´»ì1
+c
+java:S6201!"FReplace this instanceof check and cast with 'instanceof Triple triple'(¾Šé¾8åñ´»ì1
+a
+java:S6201$"DReplace this instanceof check and cast with 'instanceof Suite suite'(ïÍÀè8æñ´»ì1
+x
+java:S1128"VRemove this unused import 'org.iesalandalus.programacion.reservashotel.vista.Consola'.(Í’áºÿÿÿÿÿ8ôñ´»ì1
+q
+java:S1128"TRemove this unused import 'org.iesalandalus.programacion.reservashotel.vista.Vista'.(ÆÑê‚8ôñ´»ì1
+x
+java:S1128"VRemove this unused import 'org.iesalandalus.programacion.reservashotel.modelo.Modelo'.(¿“’Íþÿÿÿÿ8ôñ´»ì1

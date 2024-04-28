@@ -1,0 +1,82 @@
+
+Œ
+java:S1319â"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(´Ç£©ùÿÿÿÿ
+‹
+java:S1319â"oThe type of "reservasAAnular" should be an interface such as "List" rather than the implementation "ArrayList".(´Ç£©ùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(––†
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«»ÌÌ
+@	java:S106"+Replace this use of System.out by a logger.(Ç“¼Ä
+E	java:S1068"+Replace this use of System.out by a logger.(â¯¼€üÿÿÿÿ
+V	java:S125="<This block of commented-out lines of code should be removed.(°Û…ëüÿÿÿÿ
+?	java:S106I"+Replace this use of System.out by a logger.(‡ñ¼
+
+@	java:S106P"+Replace this use of System.out by a logger.(“ÕÅ°
+E	java:S106R"+Replace this use of System.out by a logger.(Ú·•¯şÿÿÿÿ
+E	java:S106]"+Replace this use of System.out by a logger.(¶±åŒûÿÿÿÿ
+E	java:S106c"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+E	java:S106d"+Replace this use of System.out by a logger.(™®­¬ùÿÿÿÿ
+E	java:S106h"+Replace this use of System.out by a logger.(ãş­ïùÿÿÿÿ
+E	java:S106j"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+@	java:S106p"+Replace this use of System.out by a logger.(®Á®Á
+?	java:S106x"+Replace this use of System.out by a logger.(½¶k
+@	java:S106~"+Replace this use of System.out by a logger.(ê°ÄÇ
+F	java:S106€"+Replace this use of System.out by a logger.(ÏÂ¡Ùúÿÿÿÿ
+F	java:S106"+Replace this use of System.out by a logger.(×Ûïÿÿÿÿÿ
+F	java:S106”"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+F	java:S106•"+Replace this use of System.out by a logger.(·¢ˆàıÿÿÿÿ
+@	java:S106š"+Replace this use of System.out by a logger.(åÖÍ4
+F	java:S106œ"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+F	java:S106£"+Replace this use of System.out by a logger.(Ë¹ºªøÿÿÿÿ
+A	java:S106¤"+Replace this use of System.out by a logger.(›Äñ
+F	java:S106¥"+Replace this use of System.out by a logger.(Ë¹ºªøÿÿÿÿ
+F	java:S106¦"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+F	java:S106¨"+Replace this use of System.out by a logger.(¤ï±üûÿÿÿÿ
+F	java:S106¶"+Replace this use of System.out by a logger.(ÂÜå¡ûÿÿÿÿ
+F	java:S106·"+Replace this use of System.out by a logger.(òÖÿŠûÿÿÿÿ
+F	java:S106¹"+Replace this use of System.out by a logger.(ÏÂ¡Ùúÿÿÿÿ
+F	java:S106Ã"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+A	java:S106Ä"+Replace this use of System.out by a logger.(¾ÂØÙ
+F	java:S106È"+Replace this use of System.out by a logger.(˜ôüÿÿÿÿ
+F	java:S106Ë"+Replace this use of System.out by a logger.(•ëÿÉıÿÿÿÿ
+F	java:S106Î"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+F	java:S106Ô"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+F	java:S106Õ"+Replace this use of System.out by a logger.(ºÁŒäûÿÿÿÿ
+F	java:S106Ø"+Replace this use of System.out by a logger.(˜ôüÿÿÿÿ
+F	java:S106Û"+Replace this use of System.out by a logger.(•ëÿÉıÿÿÿÿ
+F	java:S106Ş"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+n
+java:S3776í"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(•¾ÓÎüÿÿÿÿ
+Q
+java:S2209î"5Change this instance-reference to a static reference.(¹ÓÎ€şÿÿÿÿ
+F	java:S106ò"+Replace this use of System.out by a logger.(»½â†øÿÿÿÿ
+F	java:S106ô"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+F	java:S106õ"+Replace this use of System.out by a logger.(¬àç¡ıÿÿÿÿ
+A	java:S106ù"+Replace this use of System.out by a logger.(‘çÆò
+F	java:S106ÿ"+Replace this use of System.out by a logger.(ÍşÑÚúÿÿÿÿ
+}
+java:S2178"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(…¦´µ
+F	java:S106‚"+Replace this use of System.out by a logger.(Ï›îàúÿÿÿÿ
+F	java:S106‰"+Replace this use of System.out by a logger.(íÉíÚûÿÿÿÿ
+A	java:S106"+Replace this use of System.out by a logger.(×ô£”
+A	java:S106“"+Replace this use of System.out by a logger.(ß‹ÅÊ
+F	java:S106Ÿ"+Replace this use of System.out by a logger.(¾ËÄûÿÿÿÿ
+L
+java:S2209¡"5Change this instance-reference to a static reference.(ìÈì
+F	java:S106¢"+Replace this use of System.out by a logger.(ñ’¢•ÿÿÿÿÿ
+F	java:S106¥"+Replace this use of System.out by a logger.(•ëÿÉıÿÿÿÿ
+|
+java:S1172·"`Remove these unused method parameters "tipoHabitacion", "fechaInicioReserva", "fechaFinReserva".(õ…“œÿÿÿÿÿ
+R	java:S125¹"<This block of commented-out lines of code should be removed.(±Ã¼
+A	java:S106"+Replace this use of System.out by a logger.(Õ¿ØÌ
+F	java:S106…"+Replace this use of System.out by a logger.(â÷èéıÿÿÿÿ
+F	java:S106‰"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+F	java:S106"+Replace this use of System.out by a logger.(Íˆêüÿÿÿÿ
+F	java:S106–"+Replace this use of System.out by a logger.(õŠÏÒüÿÿÿÿ
+£
+java:S1130›"„Remove the declaration of thrown exception 'javax.naming.OperationNotSupportedException', as it cannot be thrown from method's body.(ÿ«ìé8Ê”×§ë1
+A	java:S106 "+Replace this use of System.out by a logger.(Õ¿ØÌ
+F	java:S106¤"+Replace this use of System.out by a logger.(â÷èéıÿÿÿÿ
+F	java:S106¨"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+F	java:S106¬"+Replace this use of System.out by a logger.(Î—ËÔøÿÿÿÿ
+@	java:S106µ"+Replace this use of System.out by a logger.(«Í×M

@@ -1,0 +1,15 @@
+
+C
+java:S5411m"(Use a primitive boolean expression here.(ÍïÎåùÿÿÿÿ
+@
+java:S1197/"*Move the array designators [] to the type.(ÄÖ‘¼
+W
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(Æ­‡òıÿÿÿÿ
+g
+java:S5998"LRefactor this repetition that can lead to a stack overflow for large inputs.(ÜÖéêúÿÿÿÿ
+@
+java:S5869
+"*Remove duplicates in this character class.(¡Ÿ‰¬
+R
+java:S6353
+"<Use concise character class syntax '\\d' instead of '[0-9]'.(¡Ÿ‰¬
