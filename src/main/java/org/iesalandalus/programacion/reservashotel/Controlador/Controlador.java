@@ -1,4 +1,4 @@
-package org.iesalandalus.programacion.reservashotel.Controlador;
+package org.iesalandalus.programacion.reservashotel.controlador;
 
 import org.iesalandalus.programacion.reservashotel.vista.Vista;
 import org.iesalandalus.programacion.reservashotel.modelo.IModelo;

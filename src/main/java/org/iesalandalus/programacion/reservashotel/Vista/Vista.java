@@ -1,6 +1,7 @@
 package org.iesalandalus.programacion.reservashotel.vista;
 
-import org.iesalandalus.programacion.reservashotel.Controlador.Controlador;
+
+import org.iesalandalus.programacion.reservashotel.controlador.Controlador;
 import org.iesalandalus.programacion.reservashotel.modelo.dominio.*;
 import org.iesalandalus.programacion.utilidades.Entrada;
 
@@ -13,7 +14,7 @@ import static org.iesalandalus.programacion.reservashotel.vista.Consola.*;
 
 
 public class Vista {
-    private  Controlador controlador;
+    private Controlador controlador;
 
     public Vista() {
 

@@ -1,7 +1,7 @@
 package org.iesalandalus.programacion.reservashotel;
 
 
-import org.iesalandalus.programacion.reservashotel.Controlador.Controlador;
+import org.iesalandalus.programacion.reservashotel.controlador.Controlador;
 import org.iesalandalus.programacion.reservashotel.vista.Vista;
 import org.iesalandalus.programacion.reservashotel.modelo.FactoriaFuenteDatos;
 import org.iesalandalus.programacion.reservashotel.modelo.Modelo;

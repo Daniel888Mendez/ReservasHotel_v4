@@ -1,7 +1,7 @@
 package org.iesalandalus.programacion.reservashotel.vista;
 
 
-import org.iesalandalus.programacion.reservashotel.Controlador.Controlador;
+import org.iesalandalus.programacion.reservashotel.controlador.Controlador;
 
 import javax.naming.OperationNotSupportedException;
 
